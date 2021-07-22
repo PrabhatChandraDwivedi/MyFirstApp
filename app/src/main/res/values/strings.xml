@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name ="increase">+</string>
+    <string name ="decrease">-</string>
+    <string name="Reset">Reset</string>
+
+    <string name="DefaultTextView">0</string>
+</resources>
